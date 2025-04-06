@@ -58,6 +58,7 @@ Compile os arquivos C++ com g++ ou outro compilador compatível:
 g++ -o covid covid_genoma.cpp
 g++ -o substrings A_and_B_and_Interesting_Substrings.cpp
 g++ -o stacking Stacking_Up.cpp
+
 ▶️ Como Executar a questão Covid Genoma Analysis
 Insira os dados de genoma nos arquivos entrada1.txt e entrada2.txt, conforme o formato descrito (linhas de 60 caracteres, exceto a última que pode ser ignorada).
 
