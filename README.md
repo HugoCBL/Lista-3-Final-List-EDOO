@@ -1,6 +1,7 @@
 📘 Listas de Programação - Hash Table, Strings e Manipulação de Dados
 Este repositório contém a resolução de três listas de exercícios da disciplina de Estruturas de Dados.
 
+
 📂 Organização dos Arquivos
 📁 Lista 1 - Análise de Genoma da COVID-19
 Arquivo principal: covid_genoma.cpp
@@ -20,6 +21,7 @@ Primeira coluna: bloco de 6 letras
 
 Segunda coluna: número de ocorrências desse bloco no genoma
 
+
 📁 Lista 2 - A and B and Interesting Substrings
 Arquivo: A_and_B_and_Interesting_Substrings.cpp
 
@@ -37,6 +39,7 @@ Saída:
 
 Número de substrings interessantes segundo os critérios definidos pela questão
 
+
 📁 Lista 3 - Stacking Up
 Arquivo: Stacking_Up.cpp
 
@@ -52,12 +55,16 @@ Saída:
 
 Uma string representando a sequência de operações realizadas
 
+
 ⚙️ Como Compilar
 Compile os arquivos C++ com g++ ou outro compilador compatível:
 
 g++ -o covid covid_genoma.cpp
+
 g++ -o substrings A_and_B_and_Interesting_Substrings.cpp
+
 g++ -o stacking Stacking_Up.cpp
+
 
 ▶️ Como Executar a questão Covid Genoma Analysis
 Insira os dados de genoma nos arquivos entrada1.txt e entrada2.txt, conforme o formato descrito (linhas de 60 caracteres, exceto a última que pode ser ignorada).
