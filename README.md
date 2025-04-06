@@ -3,6 +3,7 @@ Este repositório contém a resolução de três listas de exercícios da discip
 
 
 📂 Organização dos Arquivos
+
 📁 Lista 1 - Análise de Genoma da COVID-19
 Arquivo principal: covid_genoma.cpp
 Arquivos auxiliares: entrada1.txt, entrada2.txt, saida1.txt, saida2.txt, processar.bat
