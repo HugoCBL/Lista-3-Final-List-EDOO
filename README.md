@@ -68,7 +68,7 @@ g++ -o stacking Stacking_Up.cpp
 
 
 ▶️ Como Executar a questão Covid Genoma Analysis
-Insira os dados de genoma nos arquivos entrada1.txt e entrada2.txt, conforme o formato descrito (linhas de 60 caracteres, exceto a última que pode ser ignorada).
+Insira os dados de genoma nos arquivos entrada1.txt e entrada2.txt.
 
 Abra o Explorador de Arquivos e vá até o diretório onde os arquivos do projeto estão salvos.
 
